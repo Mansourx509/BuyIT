@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "20534335971",
+    "firebase_url": "https://buyit-92d8d.firebaseio.com",
+    "project_id": "buyit-92d8d",
+    "storage_bucket": "buyit-92d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20534335971:android:7ff702c0dc5b08e90828d6",
+        "android_client_info": {
+          "package_name": "com.example.buyit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20534335971-tqc5697f4hqent5l10e4b1kf7halee1v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2ivgV-oqw10iGID-_rZUvLnF7AQ8ei_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20534335971-tqc5697f4hqent5l10e4b1kf7halee1v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
